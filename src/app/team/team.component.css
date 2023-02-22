@@ -1,0 +1,17 @@
+.team-container {
+    margin-bottom: 1rem;
+
+  }
+
+  .team-container ul{
+    border: 0.1rem solid #1d1d1f;
+    margin: 0;
+    padding: 1.25rem;
+  }
+
+  li {
+    list-style: none;
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+
+  }
