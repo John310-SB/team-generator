@@ -1,6 +1,6 @@
 # TeamGenerator
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.6.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.6.  This project displays my ability to write typescript code and understand the angular framework.  Users can add names and create any amount of teams.  The program will randomly generate teams based on user team input.
 
 ## Development server
 
